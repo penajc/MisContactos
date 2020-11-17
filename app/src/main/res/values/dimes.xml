@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titulo">40dp</dimen>
+    <dimen name="nombre_contacto">30dp</dimen>
+    <dimen name="cumpleaños">20dp</dimen>
+    <dimen name="telefono">20dp</dimen>
+    <dimen name="email">20dp</dimen>
+    <dimen name="descripcion">20dp</dimen>
+
+</resources>
